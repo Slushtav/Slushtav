@@ -1,4 +1,4 @@
-# Halo Cuyy, Aku Slushtav 👋
+# Halo Cuyy, Aku Gustav 👋
 
 Selamat datang di profil GitHub-gweh!!!
 
