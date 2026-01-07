@@ -14,7 +14,6 @@ Intinya, repo di sini isinya perjalanan belajar diriku,  campuran antara belajar
 [![RenPy](https://img.shields.io/badge/Ren'Py-DD4A4A?style=for-the-badge&logo=python&logoColor=white)](https://www.renpy.org/)
 [![Pygame](https://img.shields.io/badge/Pygame-306998?style=for-the-badge&logo=python&logoColor=white)](https://www.pygame.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
 
