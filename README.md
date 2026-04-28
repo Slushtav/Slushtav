@@ -1,11 +1,11 @@
 # 😎 Halo Cuyy, Aku Gustav 👋
 
 Selamat datang di profil GitHubku! 
-Haloo aku seorang mahasiswa Informatika yang lagi suka-sukanya ngoprek berbagai hal seputar coding dan teknologi. Di sini biasanya gw nge-upload project iseng, eksperimen kecil, sampai hal-hal yang tiba-tiba kepikiran tengah malam.
+Haloo cuyy ini git buat project random gweh, yang kadang serius kadang kaga.
 
 <img src="https://img.shields.io/badge/PYTHON-DEVELOPER-3776AB?style=for-the-badge&logo=python&logoSize=60&logoColor=white" height="90"/>
 
-Mainly gweh pakai Python, bukan karena alasan serius, tapi karena… ya suka aja sih. Bahasanya enak, fleksibel, dan bikin gw bisa fokus ke ide tanpa ribet sama syntax. Kadang juga nyoba bahasa lain kalau lagi pengen eksplor atau butuh buat tugas/kelas.
+Mainly gweh pakai Python, bukan karena alasan serius, tapi karena… ya suka aja sih. Bahasanya enak, ama fleksibel. Kadang juga nyoba bahasa lain kalau lagi pengen eksplor atau butuh buat tugas/kelas.
 
 Intinya, repo di sini isinya perjalanan belajar diriku,  campuran antara belajar, eksperimen, dan sedikit kekacauan kreatif.
 
