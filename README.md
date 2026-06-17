@@ -16,8 +16,6 @@ Intinya, repo di sini isinya perjalanan belajar diriku,  campuran antara belajar
 
 ## 🤏 Kadang pake ini tipis tipis
 [![RenPy](https://img.shields.io/badge/Ren'Py-DD4A4A?style=for-the-badge&logo=python&logoColor=white)](https://www.renpy.org/)
-[![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
