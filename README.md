@@ -1,12 +1,14 @@
 # 😎 Halo Cuyy, Aku Gustav 👋
 
+<p align="center">
+  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/DRfu7BT8ZK1uo/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/12HZukMBlutpoQ/giphy.gif" width="150">
+</p>
+
 Selamat datang di profil GitHubku! 
 Haloo cuyy ini git buat project random gweh, yang kadang serius kadang kaga.
-
-<img src="https://img.shields.io/badge/PYTHON-DEVELOPER-3776AB?style=for-the-badge&logo=python&logoSize=60&logoColor=white" height="90"/>
-
 Mainly gweh pakai Python karena… ya suka aja sih. Bahasanya enak, ama fleksibel. Kadang juga nyoba bahasa lain kalau lagi pengen eksplor atau butuh buat tugas/kelas.
-
 Intinya, repo di sini isinya perjalanan belajar diriku,  campuran antara belajar, eksperimen, dan sedikit kekacauan kreatif.
 
 ## 🧑‍💻 Yang biasanya ku pake
