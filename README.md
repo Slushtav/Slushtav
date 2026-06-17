@@ -1,7 +1,7 @@
 # 😎 Halo Cuyy, Aku Gustav 👋
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZheTB5dGY1bjZ2eTM0eWhmMHIybGJhcnd0NTd1aThiNTM0amk3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3xgR6JaucMaXe/giphy.gif)" width="150">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZheTB5dGY1bjZ2eTM0eWhmMHIybGJhcnd0NTd1aThiNTM0amk3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3xgR6JaucMaXe/giphy.gif" width="300">
 </p>
 
 Selamat datang di profil GitHubku! 
