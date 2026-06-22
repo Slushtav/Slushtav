@@ -11,7 +11,7 @@ Intinya, repo di sini isinya perjalanan belajar diriku,  campuran antara belajar
 
 ## 🧑‍💻 Yang biasanya ku pake
 
-<img align="right" width="220" hspace="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3I4em1kbHIzZGY3c2R0M2JrcG50bWlybmdia3AwMndxMzdpdWcwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uizHrLgtExbmXRtPhp/giphy.gif" />
+<img align="right" width="350" hspace="170" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJmcnFpcWxjNXI5eHFmdnlhMWtxYnJ5bDR5dHZ5YWR3ZDE3bnVsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ziyDM5yuTNOZkdePAY/giphy.gif" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slushtav&layout=compact&theme=tokyonight" />
 
@@ -25,4 +25,4 @@ Intinya, repo di sini isinya perjalanan belajar diriku,  campuran antara belajar
 
 ## 🗣️ Terima Kasih Sudah Mampir!
 Feel free buat liat-liat repo ku. Siapa tau ada yang berguna atau menghibur.
-https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3I4em1kbHIzZGY3c2R0M2JrcG50bWlybmdia3AwMndxMzdpdWcwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uizHrLgtExbmXRtPhp/giphy.gif
+
