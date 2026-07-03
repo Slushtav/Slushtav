@@ -13,7 +13,7 @@ Intinya, repo di sini isinya perjalanan belajar diriku,  campuran antara belajar
 
 <img align="right" width="340" hspace="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJmcnFpcWxjNXI5eHFmdnlhMWtxYnJ5bDR5dHZ5YWR3ZDE3bnVsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ziyDM5yuTNOZkdePAY/giphy.gif" />
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Slushtav&langs_count=4)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Slushtav&langs_count=4&theme=tokyonight)
 
 
 ## 🤏 Kadang pake ini tipis tipis
